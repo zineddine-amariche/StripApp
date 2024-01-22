@@ -1,0 +1,26 @@
+.FormGroup {
+  padding: 0;
+  will-change: opacity, transform;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+  border-radius: 4px;
+  width: 100%;
+}
+
+.FormRow {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-align: center;
+  align-items: center;
+  margin-left: 15px;
+
+  /* border-top: 1px solid #819efc; */
+}
+
+.StripeElement--webkit-autofill {
+  background: transparent !important;
+}
+
+.StripeElement {
+  width: 100%;
+  padding: 16px;
+}

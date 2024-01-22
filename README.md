@@ -1,1 +1,2 @@
-# StripApp
+# fullstack-js
+Training TEST 
